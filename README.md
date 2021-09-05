@@ -9,7 +9,7 @@ This is an application where I have 2 major concept of react
 ### localstorage
 
 This is only for learning purpose.
-I was inspired by to do by [YOUTUBE](https://youtu.be/KcXsX1XXa2s).
+I was inspired by [YOUTUBE](https://youtu.be/KcXsX1XXa2s).
 
 If you want to use this locally download the zip file and extract all. DO following
 npm i.
