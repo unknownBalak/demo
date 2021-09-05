@@ -22,5 +22,6 @@ export const addNoteFunction = (e) => {
 };
 
 export const addToLocalStorage = (arr1) => {
+  console.log("Adding to local Storage!!");
   localStorage.setItem("notes", JSON.stringify(arr1));
 };
