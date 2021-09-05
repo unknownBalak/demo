@@ -22,7 +22,5 @@ export const addNoteFunction = (e) => {
 };
 
 export const addToLocalStorage = (arr1) => {
-  if (arr1.length > 0) {
-    localStorage.setItem("notes", JSON.stringify(arr1));
-  }
+  localStorage.setItem("notes", JSON.stringify(arr1));
 };
