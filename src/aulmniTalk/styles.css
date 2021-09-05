@@ -1,0 +1,30 @@
+.alumniTalk {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-direction: column;
+}
+.displayCard,
+.companyImg-Pos {
+  display: flex;
+  justify-content: space-evenly;
+  border: 1px solid;
+  align-items: center;
+  width: 90%;
+}
+.companyImg-Pos {
+  width: 100%;
+}
+.body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.body span {
+  width: 35px;
+  cursor: pointer;
+}
+.left-arr img {
+  transform: rotate(-180deg);
+}
